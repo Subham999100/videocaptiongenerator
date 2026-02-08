@@ -1,6 +1,6 @@
 # Video Caption Generator using LSTM
 
-A beginner-friendly deep learning project that generates captions for videos using CNN for feature extraction and LSTM for sequence generation.
+A beginner-friendly deep learning project that generates captions for videos using CNN for feature extraction and LSTM for sequence generation
 
 ## 📋 Project Overview
 
